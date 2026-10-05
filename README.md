@@ -1,6 +1,6 @@
 # Апарт-готель 24/7
 
-Live site: https://apart247.webart.work
+Live site: https://apart247.hotelup.work
 
 ## About
 Апарт-готель 24/7 (`aparthotel`) у Кам’янці-Подільському, вул. Огієнка, 39/2. Сторінка продає HOTEL COMFORT + APARTMENT PRACTICALITY за формулою STAY · EAT · WORK · LIVE; кампанійний рядок «Їжте. Працюйте. Відпочивайте. 24/7.» «24/7» пояснено як цілодобову рецепцію — не як цілодобовий ресторан, room service, пральню чи заселення.
